@@ -121,10 +121,14 @@ The notebook compares multiple models to identify the best-performing algorithm 
 
 (Random Forest and SVM generally provide strong performance for healthcare classification tasks.)
 
-Repository Structure
---------------------
+## Repository Structure
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Maternal-Health-Risk-Classification   ┣ 📜 Maternal_Health_Risk_Classification.ipynb   ┣ 📜 README.md   ┗ 📊 Dataset (if included)   `
+```
+Maternal-Health-Risk-Classification/
+├── Maternal_Health_Risk_Classification.ipynb
+├── README.md
+└── Dataset/ (if included)
+```
 
 ▶️ How to Run the Project
 -------------------------
