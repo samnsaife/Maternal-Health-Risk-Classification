@@ -157,7 +157,6 @@ Future Improvements
 *   Adding explainability with SHAP/LIME
     
 
-Author
-------
+## Author
 
-**Sami Noor Saifi**
+Sami Noor Saifi
